@@ -1,3 +1,3 @@
 # my-ai-project
 
-hello
+hello Claude
